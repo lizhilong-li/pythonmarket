@@ -27,6 +27,8 @@ Market-Data-Get
 4 执行程序 (win+r  然后输入cmd)
     
     python3 YanTaiZhenHua.py
+
+如果需要帮助请联系QQ:99365865 备注:商超采集
  
     
 
